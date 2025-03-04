@@ -55,7 +55,7 @@ export default function Home() {
           __html: `
             setTimeout(() => {
               window.location.href = 'https://www.chat.chopfinance.ai';
-            }, 900000);
+            }, 3000);
           `,
         }}
       />
